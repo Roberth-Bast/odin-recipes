@@ -1,0 +1,1 @@
+This little exercise about the basics of the html providing recipes of my country, where I'll put all over the practice the majority of tags developing skills to do it good and semantic code.
